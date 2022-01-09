@@ -1,0 +1,25 @@
+.product {
+  display: flex;
+  border-bottom: 2px solid lightgray;
+  padding: 15px;
+}
+.product-details {
+  margin-left: 25px;
+}
+#product-name {
+  color: blue;
+  font-weight: 700;
+}
+#purchase-btn {
+  width: 150px;
+  height: 40px;
+  background-color: rgb(248, 185, 25);
+  color: white;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.star {
+  color: goldenrod;
+  margin-bottom: 20px;
+}
